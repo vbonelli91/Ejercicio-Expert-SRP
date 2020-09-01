@@ -16,12 +16,11 @@ especifícamente se nos pide que hagamos mantenimiento de la funcionalidad de co
 Para el ejercicio se pide
 
 #### ✍ Parte 1 
-**Realizar las CRC correspondientes.**
+**Criticar el código dado en base a patrónes y principios**
 
 #### 🧐 Parte 2 
-**Criticar el código dado en base a patrónes y principios**
+**Realizar las CRC correspondientes.**
 
 #### 👩‍💻 Parte 3
 **Aplique patrónes/principios según su crítica.**
-
 
