@@ -14,9 +14,9 @@ especifícamente se nos pide que hagamos mantenimiento de la funcionalidad de co
 3. La consulta debe tener un identificador único
 4. Cada dato que se ingrese al sistema debe ser válidado.
 
-Se pide que critique el código dado en base a SRP
+Se pide que critique el código dado en base a patrónes y principios
 
 #### ✍ Parte 2
-Aplique SRP según su crítica.
+Aplique patrónes/principios según su crítica.
 
 
